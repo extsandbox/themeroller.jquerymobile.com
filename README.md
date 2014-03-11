@@ -21,3 +21,4 @@ If the GPL suits your project better you are also free to use a jQuery project u
 You don’t have to do anything special to choose one license or the other and you don’t have to notify anyone which license you are using. You are free to use a jQuery project in commercial projects as long as the copyright header is left intact.
 
 Note that the Farbtastic color picker used in this tool is licensed only under the GPL license. http://acko.net/dev/farbtastic
+ 
